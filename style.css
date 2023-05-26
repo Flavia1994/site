@@ -1,11 +1,23 @@
 
 
 body{
-    background-image: linear-gradient(blue,blue);
-    color: rgb(10, 8, 8);
+    background-image: linear-gradient(#484f7b,#4EBFE9);
+    color: white;
+    display:flex;
     justify-content:center;
     align-items: center;
+    padding: 40px 0;
     font-family: 'Merriweather', serif;
+   
 
 }
 
+.título-escola { padding: 50px 0;
+    width:35%}
+
+.imagem-aula{
+    width: 20%;}
+
+.conteudo-escola{
+    width: 35%;
+}
